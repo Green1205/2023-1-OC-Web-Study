@@ -4,6 +4,7 @@ Server: 란 클라이언트에게 네트워크를 통해 정보나 서비스를 
 URI: Uniform Resource Identifier
 URL: Uniform Resource Location = 프로토콜 + DNS(Domain Name Server)주소
 URN: Uniform Resource Name
+
 Ex:) [http://thinkzarahatke.com/author/amty.html#posts](http://thinkzarahatke.com/author/amty.html#posts)
 URL: [http://thinkzarahatke.com/author/amty.html](http://thinkzarahatke.com/author/amty.html)
 URN: [hinkzarahatke.com/author/amty.html#posts](http://hinkzarahatke.com/author/amty.html#posts)
