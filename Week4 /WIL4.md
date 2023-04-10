@@ -1,4 +1,4 @@
-<!-- 테이블 만들기: 
+ 테이블 만들기: 
 <th>내용</th> : table head 약자로, 표의 제목을 쓰는 역할
 <tr>내용</tr> : table row 약자로, 가로줄을 만드는 역할
 <td>내용</td> : table data 약자로, 셀을 만드는 역할
@@ -7,6 +7,7 @@
 "https://lifenourish.tistory.com/843"
 
 인라인 속성 태그: 
+<text>
 <strong> 태그 (MDN)
 :: 중대하거나 긴급한 내용임을 나타내는 태그
 :: 화면에는 굵은 텍스트(bold체)로 표시된다.
@@ -100,9 +101,10 @@
 <sapn> 태그 (MDN)
 :: 줄바꿈 없이 영역을 묶기 위해서 사용되는 태그
 :: 의미론적으로는 오히려 아무 의미가 없으므로 CSS를 통해 스타일을 주는데 사용된다.
+</text>
+
 
 
 input태그 placeholder:
 <input type='text' name='서버에서 인식할 값' placeholder='표시할 값'/>
 -> <input type='text' name='userId' placeholder='아이디를 입력하세요.'/>
-//-->
