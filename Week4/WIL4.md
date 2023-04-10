@@ -1,1 +1,0 @@
-18. flex-wrap: wrap;        ![캡처](./images/1.png)
